@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+data
+result*
+runs
+config.json
